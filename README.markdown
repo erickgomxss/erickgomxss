@@ -1,6 +1,6 @@
 # Olá, eu sou Erick Gomes! 👋
 
-Sou um desenvolvedor de **20 anos**, apaixonado por tecnologia e em busca de aprofundar meu conhecimento na área de programação. Estou começando minha jornada como desenvolvedor, mas já tenho interesse e experiência em algumas tecnologias incríveis!
+Sou um desenvolvedor de **20 anos**, apaixonado por tecnologia e em busca de aprofundar meu conhecimento na área de programação. Estou começando minha jornada como desenvolvedor, mas já tenho interesse e experiência em algumas tecnologias!
 
 ## 🔧 Tecnologias e Habilidades
 Gosto de me aprofundar nas seguintes linguagens e ferramentas:
